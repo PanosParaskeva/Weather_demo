@@ -17,3 +17,5 @@ The RecycleView is making use of an adaptor(WeatherAdaptor) and the ViewHolder p
 Future Improvement
 --------------------------------------------
 If I had more time I was going to add location finding system to display the location of each user and not just London. Also, i was going to implement five separate recycled views, each of them was going to represent a different day was going to be viewed in horizontal mode. Furthermore, I could improve my MVP architecture by adding an Interactor to allow the presenter to communicate with the retrofit. Lastly, i was going to make the UI of the application more elegant and add some other functionality as well, like search.
+
+![alt tag](https://github.com/PanosParaskeva/Weather_demo/blob/master/device-2017-04-05-110702.png)
