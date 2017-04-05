@@ -56,8 +56,7 @@ public class WeatherAdaptor extends RecyclerView.Adapter<WeatherAdaptor.ViewHold
 
         @BindView(R.id.row_Date_textView)
         TextView date;
-        @BindView(R.id.row_Time_textView)
-        TextView time;
+
         @BindView(R.id.row_Desc_textView)
         TextView desc;
         @BindView(R.id.row_ImageView)
